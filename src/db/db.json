@@ -1,1 +1,23 @@
-[]
+[
+    {
+        "id": "c359f0ab-bf0f-4b16-b3e8-25fda270fd5b",
+        "name": "Marty Medhurst",
+        "phone": "(214) 992-1899 x72604",
+        "email": "Kiana_Hoppe85@hotmail.com",
+        "job": "Senior Functionality Assistant"
+    },
+    {
+        "id": "8471b347-6159-4829-84a5-4096fb482189",
+        "name": "Caroline Haag",
+        "phone": "483.907.6039 x105",
+        "email": "Diamond48@gmail.com",
+        "job": "Direct Data Manager"
+    },
+    {
+        "id": "f8c5956b-8c65-49ce-bcbf-c36e6abe65f5",
+        "name": "Jeff Schneider",
+        "phone": "(387) 568-0184 x5530",
+        "email": "Eddie.Wintheiser34@yahoo.com",
+        "job": "Lead Functionality Officer"
+    }
+]
